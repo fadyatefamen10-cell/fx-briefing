@@ -216,6 +216,12 @@ def main():
     if want_daily and not stale:
         dtxt = daily(spot, basis, h1, d1, info, cal, heads, dx); st["daily"] = dkey
         open("reports/daily.txt", "w").write(dtxt + "\n"); alerts.append(dtxt)
+    if not ASOF and NOW.weekday() < 5:
+        if stale and NOWTS - st.get("stale_t", 0) > 4 * 3600:
+            alerts.append(f"⚠️ تنبيه بيانات: شموع الدهب المجانية (ياهو) متوقفة من حوالي {int(lag5/60)} ساعة. المراقب شغال لكن مش هيطلع فرص لحد ما البيانات ترجع. السكوت دلوقتي معناه إن مفيش بيانات، مش إن مفيش فرصة.")
+            st["stale_t"] = NOWTS; st["stale_on"] = True
+        elif not stale and st.get("stale_on"):
+            alerts.append("✅ البيانات رجعت، المراقب شغال طبيعي وهيبعت أي فرصة جديدة."); st["stale_on"] = False
     if alerts or hb or "--force" in ARGS:
         open(LATEST_F, "w").write(msg + "\n"); st["status_t"] = NOWTS
     if alerts:
