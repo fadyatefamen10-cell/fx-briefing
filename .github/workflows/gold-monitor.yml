@@ -1,7 +1,10 @@
 name: gold-monitor
 on:
   schedule:
-    - cron: "*/15 6-21 * * 1-5"
+    - cron: "5 6 * * 1-5"
+    - cron: "*/15 7-12 * * 1-5"
+    - cron: "*/5 13-16 * * 1-5"
+    - cron: "*/30 17-21 * * 1-5"
   workflow_dispatch:
 permissions:
   contents: write
@@ -14,7 +17,7 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
-      - run: python3 gold_monitor.py
+      - run: python3 monitor.py
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
