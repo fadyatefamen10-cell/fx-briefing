@@ -1,4 +1,31 @@
-🥇 مراقب الدهب v2 — 2026-11-27 03:17 القاهرة
-السعر الفوري 3569.2 | عقود آجلة 3597.3 | الفرق -28.1
-⚠️ شموع ياهو متأخرة (ساعة 1267 د، 5د 1212 د): لا توصيات الآن.
-لا توجد فرصة الآن: انتظار.
+📊 ملخص السوق — 2026-11-27 09:00 (القاهرة)
+
+*الدهب (XAU/USD)* — السعر 3679.30
+الاتجاه: يومي هابط قوي | ساعة صاعد | RSI 40 | MACD سالب
+دعم قريب 3425.20 | مقاومة قريبة 4157.70 | متوسط الحركة اليومية (ATR) 124.11
+الأخبار: ميل سلبي (تقدير بسيط من العناوين)
+  • Gold rebounds from one-year low as AI jitters ease - Reuters
+  • Gold and Silver Price Forecast: Silver Leads Rebound as Ratio Falls - FXEmpire
+  • Gold Dec 26 (GC=F) Stock Price, News, Quote & History - Yahoo! Finance Canada
+التوصية: بيع (ميل هابط) (نتيجة -3 من 7)
+مستويات للدراسة: دخول ~3679.30 | وقف 3865.46 | هدف 3400.06 (نسبة 1:1.5)
+
+*اليورو/دولار* — السعر 1.0981
+الاتجاه: يومي هابط قوي | ساعة صاعد قوي | RSI 36 | MACD سالب
+دعم قريب 1.0884 | مقاومة قريبة 1.1275 | متوسط الحركة اليومية (ATR) 0.0072
+الأخبار: ميل محايد (تقدير بسيط من العناوين)
+  • Euro Technical Outlook: EUR/USD Support Reversal Sets Up Breakout Test Ahead of NFP - StoneX
+  • EUR/USD Forecast: Euro Faces Levels Not Seen Since April 2025 - StoneX
+  • EUR/USD Analysis: U.S. Inflation Data Keeps Pressure on the Euro - FOREX.com
+التوصية: انتظار / مفيش أفضلية واضحة (نتيجة +0 من 7)
+
+*الاسترليني/دولار* — السعر 1.3125
+الاتجاه: يومي هابط قوي | ساعة صاعد قوي | RSI 39 | MACD سالب
+دعم قريب 1.3013 | مقاومة قريبة 1.3502 | متوسط الحركة اليومية (ATR) 0.0087
+الأخبار: ميل إيجابي (تقدير بسيط من العناوين)
+  • Gold, GBP/USD Forecast: Two trades to watch - StoneX
+  • GBP/USD Price Forecast: Grinds higher above 1.3100, but stays bearish below 100-day SMA - FXStreet
+  • GBP/USD (GBPUSD=X) live rate, chart and news - Yahoo Finance Singapore
+التوصية: انتظار / مفيش أفضلية واضحة (نتيجة +1 من 7)
+
+⚠️ تحليل فقط وليس نصيحة مالية. القرار والتنفيذ عندك يدوي. مفيش ضمان ربح.
