@@ -1,3 +1,32 @@
-🥇 مراقب الدهب v2 — 2026-11-27 21:27 القاهرة
-السعر الفوري 3643.3 | عقود آجلة 3668.5 | الفرق -25.2
-لا توجد فرصة الآن: انتظار.
+📊 ملخص السوق — 2026-11-28 08:55 (القاهرة)
+
+*الدهب (XAU/USD)* — السعر 3639.60
+الاتجاه: يومي هابط قوي | ساعة صاعد قوي | RSI 37 | MACD سالب
+دعم قريب 3425.20 | مقاومة قريبة 4157.70 | متوسط الحركة اليومية (ATR) 123.36
+الأخبار: ميل سلبي (تقدير بسيط من العناوين)
+  • Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March - StoneX
+  • Gold Price Forecast – Remarkable Cycle Symmetry Points to a Major Bottom - FXEmpire
+  • Gold will reach $4,600/oz by Q4 2027 as rates fall, USD gives back 10% overvaluation – J.P. Morgan’s Tang - Kitco
+التوصية: انتظار / مفيش أفضلية واضحة (نتيجة -1 من 7)
+
+*اليورو/دولار* — السعر 1.0972
+الاتجاه: يومي هابط قوي | ساعة هابط قوي | RSI 35 | MACD سالب
+دعم قريب 1.0884 | مقاومة قريبة 1.1275 | متوسط الحركة اليومية (ATR) 0.0074
+الأخبار: ميل محايد (تقدير بسيط من العناوين)
+  • Euro Short-term Outlook: EUR/USD Plunges to 19-Month Low—Bears Face Critical Test - StoneX
+  • EUR/USD (EURUSD=X) live rate, chart and news - Yahoo Finance UK
+  • EUR/USD Recovers as Markets Fully Price in Fed Hike - FOREX.com
+التوصية: بيع (ميل هابط) (نتيجة -6 من 7)
+مستويات للدراسة: دخول ~1.0972 | وقف 1.1082 | هدف 1.0807 (نسبة 1:1.5)
+
+*الاسترليني/دولار* — السعر 1.3107
+الاتجاه: يومي هابط قوي | ساعة هابط | RSI 38 | MACD سالب
+دعم قريب 1.3013 | مقاومة قريبة 1.3502 | متوسط الحركة اليومية (ATR) 0.0087
+الأخبار: ميل إيجابي (تقدير بسيط من العناوين)
+  • GBP/USD (GBPUSD=X) live rate, chart and news - Yahoo Finance UK
+  • Gold, GBP/USD Forecast: Two trades to watch - StoneX
+  • U.S. Dollar Gains Ground Amid Rising Treasury Yields: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY - FXEmpire
+التوصية: بيع (ميل هابط) (نتيجة -3 من 7)
+مستويات للدراسة: دخول ~1.3107 | وقف 1.3238 | هدف 1.2912 (نسبة 1:1.5)
+
+⚠️ تحليل فقط وليس نصيحة مالية. القرار والتنفيذ عندك يدوي. مفيش ضمان ربح.
